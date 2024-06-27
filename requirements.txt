@@ -1,0 +1,6 @@
+streamlit==1.35.0
+trycourier==5.0.0
+opencv-python
+streamlit-image-coordinates
+extra_streamlit_components
+streamlit-image-comparison
