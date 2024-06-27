@@ -8,10 +8,10 @@ YouTube link: https://youtu.be/Ll5slBLa0II
 
 ## Setup and Run
 
-1. Set up a Python 3.10 virtual environment:
+1. Set up a Python 3.10 virtual environment on Anaconda:
    ```bash
-   python3.10 -m venv venv
-   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+   conda create -n comfyapi python3.10 -y
+   conda activate comfyapi
    ```
 
 2. Install the required packages:
